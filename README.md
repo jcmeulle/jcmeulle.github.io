@@ -13,3 +13,5 @@ To actually cluster the players, I used k-means on normalized data. I tried some
 Here's how the clusters look after plotting them in Tableau:
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/fbclust/Sheet2?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe> 
+
+The principal components cover about 76.8% of the variation in the data, so this visual is a fairly accurate representation of where players lie in relation to each other.
