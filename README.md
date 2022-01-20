@@ -27,11 +27,11 @@ I made radar charts for each group and plotted their average Assists, Aerials Wo
 First, we can look into what makes the Attacking Midfielders and the Transcendent Stars different, since they were most similar to each other.
 
 <div class="box">
-  <iframe src="//plotly.com/~jcmeulle/24.embed" frameborder="0" scrolling="no" width="49%" height="512" align="left"> </iframe>
+  <iframe src="//plotly.com/~jcmeulle/24.embed" frameborder="0" scrolling="no" width="50%" height="512" align="left"> </iframe>
 </div>
 
 <div class="box">
-  <iframe src="//plotly.com/~jcmeulle/33.embed" frameborder="0" scrolling="no" width="49%" height="512" align="right"></iframe>
+  <iframe src="//plotly.com/~jcmeulle/33.embed" frameborder="0" scrolling="no" width="50%" height="512" align="right"></iframe>
 </div>
 
 
@@ -47,11 +47,11 @@ Looking at these plots, we can see that the main difference is that the Transcen
 Next, let's look at Tricky Attackers vs. Target Men:
 
 <div class="box">
-  <iframe src="//plotly.com/~jcmeulle/35.embed" frameborder="0" scrolling="no" width="49%" height="512" align="left"> </iframe>
+  <iframe src="//plotly.com/~jcmeulle/35.embed" frameborder="0" scrolling="no" width="50%" height="512" align="left"> </iframe>
 </div>
 
 <div class="box">
-  <iframe src="//plotly.com/~jcmeulle/31.embed" frameborder="0" scrolling="no" width="49%" height="512" align="right"></iframe>
+  <iframe src="//plotly.com/~jcmeulle/31.embed" frameborder="0" scrolling="no" width="50%" height="512" align="right"></iframe>
 </div>
 
 \
