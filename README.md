@@ -2,7 +2,7 @@
 
 The Ballon D'or is the biggest award in international soccer. Every winter, it is awarded to the overall "best" player in the world. This year's award was given on November 29, and coincidentally, around then I learned about clustering in my master's program. When we talked about k-means clustering, I wondered if the algorithm could tell between the "types" of soccer players.
 
-For this project, I took data from FBRef, a website with all kinds of per-match data on soccer players, on each of the 30 nominees for the 2021 Ballon D'Or. Then, I used R, Python, and Tableau to restructure, analyze, and visualize the data. A repository with all my code and data can be found <a href="https://github.com/jcmeulle/ballon_d-or_analysis"> here </a>.
+For this project, I took data from FBRef, a website with all kinds of per-match data on soccer players, on each of the 30 nominees for the 2021 Ballon D'Or. Then, I used R, Python, and Tableau to restructure, analyze, and visualize the data. A repository with all my code and data can be found <a href="https://github.com/jcmeulle/ballon_d-or_analysis"> here. </a>
 
 I clustered the players with k-means clustering so I could get a few groups of players that made sense in a soccer context before profiling them by these groups.
 
