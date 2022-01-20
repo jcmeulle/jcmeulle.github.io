@@ -47,3 +47,14 @@ Next, let's look at Tricky Attackers vs. Target Men:
 </div>
 
 Here, we see that both groups scored tons of goals and played basically no defense. The key differences here are slightly higher assists for the Tricky Attackers and much higher aerials won for the Target Men. These make complete sense - players like Lukaku and Haaland are much more known for their headers than people like Sterling and Salah.
+
+Now, for our last comparison, we can look at the Deep-Lying Midfielders vs. the Defenders. Both should record decent defensive statistics, but there should also be some differences.
+
+<div class="box">
+  <iframe src="//plotly.com/~jcmeulle/29.embed" frameborder="0" scrolling="no" width="50%" height="512" align="left"> </iframe>
+</div>
+
+<div class="box">
+  <iframe src="//plotly.com/~jcmeulle/27.embed" frameborder="0" scrolling="no" width="50%" height="512" align="right"></iframe>
+</div>
+
