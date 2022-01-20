@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Ballon D'Or Analysis
 description: A clustering experiment by Jack Meullenet
+classes: wide
