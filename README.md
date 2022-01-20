@@ -29,4 +29,3 @@ I made radar charts for each group and plotted their average Assists, Aerials Wo
 <div class="box">
   <iframe src="//plotly.com/~jcmeulle/33.embed" frameborder="0" scrolling="no" width="49%" height="512" align="right"></iframe>
 </div>
-
