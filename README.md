@@ -20,7 +20,9 @@ Now that we have the clusters, we can look at some of the characteristics for ea
 
 ## Profiling
 
-I made radar charts for each group and plotted their average Assists, Aerials Won, Progressive Carries, Non-Penalty Goals, Interceptions, and Tackles. I thought that these variables would help show the differences between players more effectively than just the PCA clustering plot.
+I made radar charts for each group and plotted their average Assists, Aerials Won, Progressive Carries, Non-Penalty Goals, Interceptions, and Tackles. I thought that these variables would help show the differences between players more effectively than just the PCA clustering plot. Each variable was standardized from 0 to 1 to keep the axes consistent.
+
+First, we can look into what makes the Attacking Midfielders and the Transcendent Stars different, since they were most similar to each other.
 
 <div class="box">
   <iframe src="//plotly.com/~jcmeulle/24.embed" frameborder="0" scrolling="no" width="49%" height="512" align="left"> </iframe>
@@ -29,3 +31,5 @@ I made radar charts for each group and plotted their average Assists, Aerials Wo
 <div class="box">
   <iframe src="//plotly.com/~jcmeulle/33.embed" frameborder="0" scrolling="no" width="49%" height="512" align="right"></iframe>
 </div>
+
+Looking at these plots, we can see that the main difference is that the Transcendent Stars, made up entirely of Neymar and Messi, had way more progressive carries. 
