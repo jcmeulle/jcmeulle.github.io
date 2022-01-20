@@ -2,7 +2,7 @@
 
 The Ballon D'or is the biggest award in international soccer. Every winter, it is awarded to the overall "best" player in the world. This year's award was given on November 29, and coincidentally, around then I learned about clustering in my master's program. When we talked about k-means clustering, I wondered if the algorithm could tell between the "types" of soccer players.
 
-For this project, I took data from FBRef, a website with all kinds of per-match data on soccer players, on each of the 30 nominees for the 2021 Ballon D'Or. Then, I used R, Python, and Tableau to restructure, analyze, and visualize the data. A repository with all my code and data can be found <a href="https://github.com/jcmeulle/ballon_d-or_analysis"> here </a>
+For this project, I took data from FBRef, a website with all kinds of per-match data on soccer players, on each of the 30 nominees for the 2021 Ballon D'Or. Then, I used R, Python, and Tableau to restructure, analyze, and visualize the data. A repository with all my code and data can be found <a href="https://github.com/jcmeulle/ballon_d-or_analysis"> here </a>.
 
 I clustered the players with k-means clustering so I could get a few groups of players that made sense in a soccer context before profiling them by these groups.
 
@@ -32,4 +32,5 @@ First, we can look into what makes the Attacking Midfielders and the Transcenden
   <iframe src="//plotly.com/~jcmeulle/33.embed" frameborder="0" scrolling="no" width="49%" height="512" align="right"></iframe>
 </div>
 
-Looking at these plots, we can see that the main difference is that the Transcendent Stars, made up entirely of Neymar and Messi, had way more progressive carries. 
+
+Looking at these plots, we can see that the main difference is that the Transcendent Stars, made up entirely of Neymar and Messi, had way more progressive carries. Of course, they also scored significantly more goals. This shows that Messi and Neymar differentiate themselves by carrying the ball and scoring more while also assisting their teammates as much as the world's other great playmakers.
