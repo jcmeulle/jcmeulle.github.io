@@ -23,9 +23,9 @@ Now that we have the clusters, we can look at some of the characteristics for ea
 I made radar charts for each group and plotted their average Assists, Aerials Won, Progressive Carries, Non-Penalty Goals, Interceptions, and Tackles. I thought that these variables would help show the differences between players more effectively than just the PCA clustering plot.
 
 <div class="box">
-  <iframe src="//plotly.com/~jcmeulle/35.embed" frameborder="0" scrolling="no" width="50%" height="512" align="left"> </iframe>
+  <iframe src="//plotly.com/~jcmeulle/35.embed" frameborder="0" scrolling="no" width="49%" height="512" align="left"> </iframe>
 </div>
 
 <div class="box">
-  <iframe src="//plotly.com/~jcmeulle/33.embed" frameborder="0" scrolling="no" width="50%" height="512" align="right"></iframe>
+  <iframe src="//plotly.com/~jcmeulle/33.embed" frameborder="0" scrolling="no" width="49%" height="512" align="right"></iframe>
 </div>
