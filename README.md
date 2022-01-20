@@ -62,3 +62,4 @@ The Defenders recorded a much higher rate of aerials won, which makes sense - bi
 
 ## Conclusion
 
+This was a great exercise for me. I got to practice analysis in R, visualization in Python and Tableau, and spent plenty of time getting Github Pages to cooperate with my formatting. I also really enjoyed getting to look a little more deeply into the differences between players and finding some interesting nuances. Watch this space for any other random projects I decide to pursue!
