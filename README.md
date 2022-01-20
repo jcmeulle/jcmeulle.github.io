@@ -12,7 +12,7 @@ To actually cluster the players, I used k-means on normalized data. I tried some
 
 Here's how the clusters look after plotting them in Tableau:
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/fbclust/Sheet2?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/fbclust/Sheet2?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '600'></iframe> 
 
 The principal components cover about 76.8% of the variation in the data, so this visual is a fairly accurate representation of where players lie in relation to each other. These clusters were also surprisingly good - I was worried about their ability to separate wingers from more "Number 10" types of players who play in the middle of the field more often. I was also a little bit surprised to see Messi way up in the top right corner, but he did win the award.
 
