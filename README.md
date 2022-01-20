@@ -37,3 +37,16 @@ First, we can look into what makes the Attacking Midfielders and the Transcenden
 \
 
 Looking at these plots, we can see that the main difference is that the Transcendent Stars, made up entirely of Neymar and Messi, had way more progressive carries. Of course, they also scored significantly more goals. This shows that Messi and Neymar differentiate themselves by carrying the ball and scoring more while also assisting their teammates as much as the world's other great playmakers.
+
+Next, let's look at Tricky Attackers vs. Target Men:
+
+<div class="box">
+  <iframe src="//plotly.com/~jcmeulle/35.embed" frameborder="0" scrolling="no" width="49%" height="512" align="left"> </iframe>
+</div>
+
+<div class="box">
+  <iframe src="//plotly.com/~jcmeulle/31.embed" frameborder="0" scrolling="no" width="49%" height="512" align="right"></iframe>
+</div>
+
+\
+
