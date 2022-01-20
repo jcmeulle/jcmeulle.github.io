@@ -58,3 +58,7 @@ Now, for our last comparison, we can look at the Deep-Lying Midfielders vs. the 
   <iframe src="//plotly.com/~jcmeulle/27.embed" frameborder="0" scrolling="no" width="50%" height="512" align="right"></iframe>
 </div>
 
+The Defenders recorded a much higher rate of aerials won, which makes sense - big centerbacks make a living off of beating people to a ball in the air. The more surprising part of this is that the Defenders had less tackles and interceptions than the Deep-Lying Midfielders. My best guess on this one is that possession changes far more often in the midfield, where the ball pings around while midfielders aggressively press the other team. Defenders tend to play a little more passively because they're so close to their goal.
+
+## Conclusion
+
